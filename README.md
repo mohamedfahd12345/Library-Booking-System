@@ -116,10 +116,10 @@ A default admin account is automatically created with the following credentials:
 - **Password**: `admin123`
   
 ## System Architecture Diagram
-![System Architecture Diagram](https://github.com/mohamedfahd12345/tempusage/blob/main/systemDesign.png)
+![System Architecture Diagram](https://github.com/mohamedfahd12345/Library-Booking-System/blob/main/Screenshots/systemDesign.png)
 
 ## Database Schema
-![Database Schema](https://github.com/mohamedfahd12345/tempusage/blob/main/databaseDesign.png)
+![Database Schema](https://github.com/mohamedfahd12345/Library-Booking-System/blob/main/Screenshots/databaseDesign.png)
 
 ## API Endpoints
 
